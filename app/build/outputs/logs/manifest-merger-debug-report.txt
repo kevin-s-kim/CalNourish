@@ -1,16 +1,19 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\sungk\Desktop\Kevin\cs160\CalNourish\CalNourish\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\sungk\Desktop\Kevin\cs160\CalNourish\CalNourish\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\sungk\Desktop\Kevin\cs160\CalNourish\CalNourish\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\sungk\Desktop\Kevin\cs160\CalNourish\CalNourish\app\src\main\AndroidManifest.xml:2:1-21:12
+ADDED from C:\Users\sungk\Desktop\Kevin\cs160\CalNourish\CalNourish\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\sungk\Desktop\Kevin\cs160\CalNourish\CalNourish\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\sungk\Desktop\Kevin\cs160\CalNourish\CalNourish\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\sungk\Desktop\Kevin\cs160\CalNourish\CalNourish\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\d008515ebb57d222a4f180dbffb94246\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\30de5a8fa665d4bf3e199fdccb59e2a0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\39c250ae3b2c08417b7fc89c771a0dd6\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\8026b9d035fd2bbab3a41e73b6332b27\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\1c9696d11b991eef97f7bfe643c983d2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\bb2d6b92795bb730d1fe6c028f2dd5a4\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\361ac47fe5df8b4b4580b4d720d4d168\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\4da2b1ee20aa7be2a2d2eb4f35a9072d\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\37fa3316d0c509da98bb24dadde7e3de\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\98829bba95b37243a2f7c401cf27890f\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:loader:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\e2b65dadae32a611fbb5f7f5389b2e79\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:viewpager:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\d698399964ffa7945aafc7558b553820\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\70a11f9e86e399d283e3d59a2410b178\AndroidManifest.xml:17:1-22:12
@@ -22,34 +25,37 @@ MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\sungk\.gra
 MERGED from [com.android.support:support-compat:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d79b71fedc7aece39e2ddc18df5f4269\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\86b51b03e8d9689ef291a14692c5006c\AndroidManifest.xml:17:1-25:12
 MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\b82dccce5d2239c08c3229c14ad9680f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\013ede03861209ff50588b53dcd06f90\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e9fb6f2bbc22ed32694908f89079b7b0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:documentfile:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\1f440f69c8d9eee841c676a21557d74e\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\61a5190abdba34292d8c0a6e2f04a09f\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:print:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\4acf83ae1e2e8478bd3b189b80eef57b\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\291a99b4bcbca7b579bd66b37fca69a4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\bacd7a8bfe1a7ad56c05a53f17386662\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\1aced2d01b5bffeccc23ebe67e177fe7\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\49415810d2f8fc50c6a93eecedf998a2\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9abe455e77fc9c7d563166e8a2f188b2\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\bacd7a8bfe1a7ad56c05a53f17386662\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\sungk\Desktop\Kevin\cs160\CalNourish\CalNourish\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\sungk\Desktop\Kevin\cs160\CalNourish\CalNourish\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\sungk\Desktop\Kevin\cs160\CalNourish\CalNourish\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\sungk\Desktop\Kevin\cs160\CalNourish\CalNourish\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\sungk\Desktop\Kevin\cs160\CalNourish\CalNourish\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\sungk\Desktop\Kevin\cs160\CalNourish\CalNourish\app\src\main\AndroidManifest.xml:2:1-27:12
 	package
 		ADDED from C:\Users\sungk\Desktop\Kevin\cs160\CalNourish\CalNourish\app\src\main\AndroidManifest.xml:3:5-43
 		INJECTED from C:\Users\sungk\Desktop\Kevin\cs160\CalNourish\CalNourish\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\sungk\Desktop\Kevin\cs160\CalNourish\CalNourish\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\sungk\Desktop\Kevin\cs160\CalNourish\CalNourish\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\sungk\Desktop\Kevin\cs160\CalNourish\CalNourish\app\src\main\AndroidManifest.xml:2:1-21:12
+		ADDED from C:\Users\sungk\Desktop\Kevin\cs160\CalNourish\CalNourish\app\src\main\AndroidManifest.xml:2:1-27:12
 		INJECTED from C:\Users\sungk\Desktop\Kevin\cs160\CalNourish\CalNourish\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\sungk\Desktop\Kevin\cs160\CalNourish\CalNourish\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\sungk\Desktop\Kevin\cs160\CalNourish\CalNourish\app\src\main\AndroidManifest.xml:2:1-21:12
+		ADDED from C:\Users\sungk\Desktop\Kevin\cs160\CalNourish\CalNourish\app\src\main\AndroidManifest.xml:2:1-27:12
 		INJECTED from C:\Users\sungk\Desktop\Kevin\cs160\CalNourish\CalNourish\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\sungk\Desktop\Kevin\cs160\CalNourish\CalNourish\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\sungk\Desktop\Kevin\cs160\CalNourish\CalNourish\app\src\main\AndroidManifest.xml:5:5-19:19
+ADDED from C:\Users\sungk\Desktop\Kevin\cs160\CalNourish\CalNourish\app\src\main\AndroidManifest.xml:5:5-25:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\d008515ebb57d222a4f180dbffb94246\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\d008515ebb57d222a4f180dbffb94246\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\39c250ae3b2c08417b7fc89c771a0dd6\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\39c250ae3b2c08417b7fc89c771a0dd6\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:support-compat:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d79b71fedc7aece39e2ddc18df5f4269\AndroidManifest.xml:22:5-94
@@ -84,10 +90,24 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\sungk\Desktop\Kevin\cs160\CalNourish\CalNourish\app\src\main\AndroidManifest.xml:16:17-77
 	android:name
 		ADDED from C:\Users\sungk\Desktop\Kevin\cs160\CalNourish\CalNourish\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.kevin.calnourish.BottomNavigation
+ADDED from C:\Users\sungk\Desktop\Kevin\cs160\CalNourish\CalNourish\app\src\main\AndroidManifest.xml:19:9-21:41
+	android:label
+		ADDED from C:\Users\sungk\Desktop\Kevin\cs160\CalNourish\CalNourish\app\src\main\AndroidManifest.xml:21:13-38
+	android:name
+		ADDED from C:\Users\sungk\Desktop\Kevin\cs160\CalNourish\CalNourish\app\src\main\AndroidManifest.xml:20:13-45
+activity#com.example.kevin.calnourish.InfoActivity
+ADDED from C:\Users\sungk\Desktop\Kevin\cs160\CalNourish\CalNourish\app\src\main\AndroidManifest.xml:22:9-24:60
+	android:label
+		ADDED from C:\Users\sungk\Desktop\Kevin\cs160\CalNourish\CalNourish\app\src\main\AndroidManifest.xml:24:13-48
+	android:name
+		ADDED from C:\Users\sungk\Desktop\Kevin\cs160\CalNourish\CalNourish\app\src\main\AndroidManifest.xml:23:13-41
 uses-sdk
 INJECTED from C:\Users\sungk\Desktop\Kevin\cs160\CalNourish\CalNourish\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\sungk\Desktop\Kevin\cs160\CalNourish\CalNourish\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\sungk\Desktop\Kevin\cs160\CalNourish\CalNourish\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\d008515ebb57d222a4f180dbffb94246\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\d008515ebb57d222a4f180dbffb94246\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\30de5a8fa665d4bf3e199fdccb59e2a0\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\30de5a8fa665d4bf3e199fdccb59e2a0\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\39c250ae3b2c08417b7fc89c771a0dd6\AndroidManifest.xml:5:5-7:41
@@ -96,12 +116,16 @@ MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\sungk\.gradle
 MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\8026b9d035fd2bbab3a41e73b6332b27\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\1c9696d11b991eef97f7bfe643c983d2\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\1c9696d11b991eef97f7bfe643c983d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\bb2d6b92795bb730d1fe6c028f2dd5a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\bb2d6b92795bb730d1fe6c028f2dd5a4\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\361ac47fe5df8b4b4580b4d720d4d168\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\361ac47fe5df8b4b4580b4d720d4d168\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\4da2b1ee20aa7be2a2d2eb4f35a9072d\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\4da2b1ee20aa7be2a2d2eb4f35a9072d\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\37fa3316d0c509da98bb24dadde7e3de\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\37fa3316d0c509da98bb24dadde7e3de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\98829bba95b37243a2f7c401cf27890f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\98829bba95b37243a2f7c401cf27890f\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:loader:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\e2b65dadae32a611fbb5f7f5389b2e79\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:loader:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\e2b65dadae32a611fbb5f7f5389b2e79\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:viewpager:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\d698399964ffa7945aafc7558b553820\AndroidManifest.xml:20:5-44
@@ -124,6 +148,8 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\sungk\.gra
 MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\86b51b03e8d9689ef291a14692c5006c\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\b82dccce5d2239c08c3229c14ad9680f\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\b82dccce5d2239c08c3229c14ad9680f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\013ede03861209ff50588b53dcd06f90\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\013ede03861209ff50588b53dcd06f90\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e9fb6f2bbc22ed32694908f89079b7b0\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e9fb6f2bbc22ed32694908f89079b7b0\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:documentfile:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\1f440f69c8d9eee841c676a21557d74e\AndroidManifest.xml:20:5-44
@@ -134,14 +160,14 @@ MERGED from [com.android.support:print:28.0.0] C:\Users\sungk\.gradle\caches\tra
 MERGED from [com.android.support:print:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\4acf83ae1e2e8478bd3b189b80eef57b\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\291a99b4bcbca7b579bd66b37fca69a4\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\291a99b4bcbca7b579bd66b37fca69a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\bacd7a8bfe1a7ad56c05a53f17386662\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\bacd7a8bfe1a7ad56c05a53f17386662\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\1aced2d01b5bffeccc23ebe67e177fe7\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\1aced2d01b5bffeccc23ebe67e177fe7\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\49415810d2f8fc50c6a93eecedf998a2\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\49415810d2f8fc50c6a93eecedf998a2\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9abe455e77fc9c7d563166e8a2f188b2\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9abe455e77fc9c7d563166e8a2f188b2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\bacd7a8bfe1a7ad56c05a53f17386662\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\sungk\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\bacd7a8bfe1a7ad56c05a53f17386662\AndroidManifest.xml:20:5-44
 INJECTED from C:\Users\sungk\Desktop\Kevin\cs160\CalNourish\CalNourish\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\sungk\Desktop\Kevin\cs160\CalNourish\CalNourish\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion

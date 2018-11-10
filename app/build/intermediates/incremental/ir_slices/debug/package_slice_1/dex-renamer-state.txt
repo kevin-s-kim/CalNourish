@@ -1,0 +1,4 @@
+#Thu Nov 08 18:22:13 PST 2018
+base.0=C\:\\Users\\sungk\\Desktop\\Kevin\\cs160\\CalNourish\\CalNourish\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.0=classes.dex
+renamed.0=classes.dex

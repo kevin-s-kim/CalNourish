@@ -16,6 +16,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".BottomNavigation"
+            android:label="bottomNav" />
+        <activity
+            android:name=".InfoActivity"
+            android:label="title_activity_info"></activity>
     </application>
 
 </manifest>
