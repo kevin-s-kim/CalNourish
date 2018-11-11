@@ -4,4 +4,5 @@ This is the repo for the CalNourish mobile application for **android devices**. 
 
 ## Setting up
 1. There are currently know required actions besides cloning the repo – clone and begin coding!
-
+2. ???
+3. Profit.
