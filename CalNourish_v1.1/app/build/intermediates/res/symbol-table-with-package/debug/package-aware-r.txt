@@ -1002,6 +1002,9 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable ic_baseline_info_24px
+drawable ic_baseline_menu_24px
+drawable ic_baseline_search_24px
 drawable ic_dashboard_black_24dp
 drawable ic_home_black_24dp
 drawable ic_launcher_background
@@ -1063,6 +1066,7 @@ id beginning
 id blocking
 id bottom
 id buttonPanel
+id category
 id center
 id center_horizontal
 id center_vertical
@@ -1100,6 +1104,7 @@ id fill_horizontal
 id fill_vertical
 id filled
 id fixed
+id foodrecovery
 id forever
 id frame_layout
 id ghost_view
@@ -1124,6 +1129,7 @@ id line3
 id listMode
 id list_item
 id masked
+id menu
 id message
 id middle
 id mini
@@ -1131,10 +1137,7 @@ id mtrl_child_content_container
 id mtrl_internal_children_alpha_tag
 id multiply
 id navigation
-id navigation_dashboard
 id navigation_header_container
-id navigation_home
-id navigation_notifications
 id never
 id none
 id normal
@@ -1164,6 +1167,7 @@ id scrollIndicatorDown
 id scrollIndicatorUp
 id scrollView
 id scrollable
+id search
 id search_badge
 id search_bar
 id search_button
@@ -1294,7 +1298,11 @@ layout design_navigation_item_subheader
 layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_password_icon
+layout fragment_category
+layout fragment_foodrecovery
+layout fragment_info
 layout fragment_menu
+layout fragment_search
 layout mtrl_layout_snackbar
 layout mtrl_layout_snackbar_include
 layout notification_action

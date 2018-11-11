@@ -13,5 +13,5 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="124dp"
-        android:text="OMG WORKING" />
+        android:text="This will be menu page" />
 </RelativeLayout>

@@ -20,16 +20,21 @@ public class MainActivity extends AppCompatActivity {
         public boolean onNavigationItemSelected(@NonNull MenuItem item) {
             Fragment selectedFrag = null;
             switch (item.getItemId()) {
-                case R.id.navigation_home:
-                    //mTextMessage.setText(R.string.title_home);
+                case R.id.info:
+                    selectedFrag = InfoFragment.newInstance();
+                    break;
+                case R.id.category:
+                    selectedFrag = CategoryFragment.newInstance();
+                    break;
+                case R.id.search:
+                    selectedFrag = SearchFragment.newInstance();
+                    break;
+                case R.id.foodrecovery:
+                    selectedFrag = FoodRecoveryFragment.newInstance();
+                    break;
+                case R.id.menu:
                     selectedFrag = MenuFragment.newInstance();
                     break;
-                case R.id.navigation_dashboard:
-                    mTextMessage.setText(R.string.title_dashboard);
-                    return true;
-                case R.id.navigation_notifications:
-                    mTextMessage.setText(R.string.title_notifications);
-                    return true;
             }
             FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
             transaction.replace(R.id.frame_layout, selectedFrag);
